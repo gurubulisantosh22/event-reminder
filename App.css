@@ -1,0 +1,5 @@
+#bg-img{
+  background-image: url("../public/ToDo-banner.jpg");
+  background-size: cover;
+  height: 100vh;
+}
